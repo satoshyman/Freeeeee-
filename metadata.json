@@ -1,0 +1,7 @@
+{
+  "name": "BeeClaimer Pro Faucet",
+  "description": "Professional Crypto Faucet Mini App with Mining, Daily Rewards, and Referral System.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
